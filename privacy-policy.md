@@ -10,7 +10,7 @@ We collect the following types of user data for authentication purposes:
 
 - **Email address and password** (when signing up via email)
 - **Phone number** (when signing in with phone number)
-- **Name and profile photo** (to display on your profile) 
+- **UserNamr, Name and profile photo** (to display on your profile) 
 
 This data is used strictly for user identification and authentication within the Popkorn app and is securely managed through **Firebase Authentication**.
 
